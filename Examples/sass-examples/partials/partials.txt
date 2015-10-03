@@ -1,0 +1,10 @@
+CP1
+@import 'import/colors';
+
+
+CP2
+
+body {
+	background: $cardinalDarkBlue;
+	color: #FFFFFF;
+}

@@ -1,0 +1,53 @@
+//CP1
+
+	width:80%;
+	max-width: 960px;
+	background-color:#CCCCCC;
+	border:1px solid #000;
+	margin:0px auto;
+	padding:0px;
+
+
+//CP2
+
+ul {
+
+		list-style:none;
+
+		li {
+
+			display:inline-block;
+			vertical-align: top;
+			padding:20px;
+
+		}
+
+	}
+
+
+//CP3
+
+a {
+	text-decoration: none;
+    color: blue;
+    &:hover {
+        text-decoration: underline;
+    }
+    &:visited {
+        color: purple;
+    }
+}
+
+
+//CP4
+@media screen and (max-width:600px) {
+
+		width:100%;
+		max-width:600px;
+
+		ul li {
+
+			display:block;
+
+		}
+}

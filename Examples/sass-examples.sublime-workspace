@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"brewery",
+				"brewerySrc"
+			],
+			[
+				"dar",
+				"dark-background-text-color"
+			],
+			[
+				"com",
+				"compareArr"
+			],
+			[
+				"col",
+				"column-count"
+			],
+			[
+				"date",
+				"dateObj"
+			],
+			[
+				"oneTime",
+				"oneTimeGiftString"
+			],
+			[
+				"commit1",
+				"commit1String"
+			],
+			[
+				"sub",
+				"subTotalString"
+			],
+			[
+				"twoYear",
+				"twoYearCommitNumber"
+			],
+			[
+				"on",
+				"oneTimeGift"
+			],
+			[
+				"commit",
+				"commit2flag"
+			],
+			[
+				"yeste",
+				"yesterdayString"
+			],
+			[
+				"f1",
+				"f1GivingObj"
+			],
+			[
+				"weekend",
+				"weekendTermID"
+			],
+			[
+				"hcc",
+				"hcc_serving_opp_availability"
+			],
+			[
+				"term",
+				"termObj"
+			],
+			[
+				"j",
+				"jQuery"
+			],
+			[
+				"servingopp",
+				"servingopp-form-container"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"campus",
+				"campusContacts"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"campu",
+				"campus_tax"
+			],
+			[
+				"person",
+				"personAttributes"
+			],
+			[
+				"_S",
+				"_SESSION"
+			],
+			[
+				"Fell",
+				"FellowshipOne-Attributes"
+			],
+			[
+				"jso",
+				"json"
+			],
+			[
+				"F1",
+				"F1BarCodeLookUp"
+			],
+			[
+				"get",
+				"getOption"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"date_creat",
+				"date_create_from_format"
+			],
+			[
+				"user",
+				"userDOBarr"
+			],
+			[
+				"subscri",
+				"subscribeToEmailList"
+			],
+			[
+				"ip",
+				"ipLastDigits"
+			],
+			[
+				"co",
+				"configDirectory"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"this",
+				"thisView"
+			],
+			[
+				"conf",
+				"configManager"
+			],
+			[
+				"status",
+				"statusObj"
+			],
+			[
+				"Fellow",
+				"FellowshipOne-People"
+			],
+			[
+				"html",
+				"htmlString"
+			],
+			[
+				"app",
+				"appModel"
+			],
+			[
+				"chec",
+				"checkInSuccess"
+			],
+			[
+				"Ch",
+				"CheckInManager"
+			],
+			[
+				"continue",
+				"continueRender"
+			],
+			[
+				"style",
+				"stylePath"
+			],
+			[
+				"h",
+				"htmlString"
+			],
+			[
+				"data",
+				"dataEntryView"
+			],
+			[
+				"model",
+				"modelData"
+			],
+			[
+				"ap",
+				"appRouter"
+			],
+			[
+				"Hcc",
+				"HCC_CheckInKiosk"
+			],
+			[
+				"sho",
+				"showConfirmationScreen"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"look",
+				"lookUpForm"
+			],
+			[
+				"show",
+				"showWaitingScreen"
+			],
+			[
+				"people",
+				"peopleQuery"
+			],
+			[
+				"userdo",
+				"userdobmonth"
+			],
+			[
+				"singl",
+				"singleMatch"
+			],
+			[
+				"peop",
+				"peopleQuery"
+			],
+			[
+				"local",
+				"localdb"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"a",
+				"appRouter"
+			],
+			[
+				"con",
+				"configManager"
+			],
+			[
+				"drupal",
+				"drupalcss"
+			],
+			[
+				"in",
+				"instructions"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"hcc-savedMes",
+				"hcc-savedMessageID"
+			],
+			[
+				"set",
+				"setItem"
+			],
+			[
+				"send",
+				"sendSavedNotes"
+			],
+			[
+				"saved",
+				"savedNotes"
+			],
+			[
+				"hcc-",
+				"hcc-savedMessageNotes"
+			],
+			[
+				"hc",
+				"hccNoteTimeout"
+			],
+			[
+				"hcc-save",
+				"hcc-savedMessageID"
+			],
+			[
+				"g",
+				"getTime"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"stat",
+				"staticNotes"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"save",
+				"savedEmail"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"appNote",
+				"appNotes-emailError"
+			],
+			[
+				"strip",
+				"stripslashes"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"searc",
+				"searchResults"
+			],
+			[
+				"confi",
+				"configDirectory"
+			],
+			[
+				"current",
+				"currentConfig"
+			],
+			[
+				"config",
+				"configDirectory"
+			],
+			[
+				"change",
+				"changeConfig"
+			],
+			[
+				"Config",
+				"ConfigManager"
+			],
+			[
+				"coni",
+				"configDisplayName"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"check",
+				"checkConfig"
+			],
+			[
+				"noC",
+				"noConfigView"
+			],
+			[
+				"curre",
+				"currentTimestamp"
+			],
+			[
+				"move",
+				"moveupTime"
+			],
+			[
+				"sat",
+				"saturdayBefore"
+			],
+			[
+				"cure",
+				"currentYear"
+			],
+			[
+				"se",
+				"sessionDate"
+			],
+			[
+				"fil",
+				"filteredResults"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "sass-examples/functions/functions.scss",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/functions/functions.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/mixins/mixins.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/mixins/mixins.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/package.json",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/gruntfile.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/variables/variables.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/variables/variables.txt",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/nesting/nesting.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/nesting/nesting.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/mixins/mixins.txt",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/functions/functions.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/variables/variables.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/partials/partials.txt",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/partials/partials.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/sass-examples/partials/partials.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/test.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/gruntsetup.txt",
+		"/Users/tdarling/Desktop/STUFF/DEV/AngularClass/tappr-demo/app/app.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AngularClass/tappr-demo/app/scripts/controllers/beerDetailCtrl.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/gulpfile.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Demo/gulpfile.js",
+		"/Users/tdarling/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/tdarling/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/tdarling/Desktop/STUFF/DEV/HopeSmallGroupFinder/small-group-form/controller.php",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/sasstraining.sublime-project",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/index.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/mixins/mixins.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/nesting/nesting.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/functions/functions.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/partials/partials.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/partials/partials.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/partials/import/_typography.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/mixins/mixins.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/nesting/nesting.txt",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/nesting/nav.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/nesting/nesting.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/mixins/mixins-fixed.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/mixins/mixins-fixed.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/functions/functions.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/partials/import/_colors.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/functions/functions.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Examples/nesting/nesting.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/variables/variables.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/SassTraining/Excersises/variables/variables.scss",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/87F8C114-C4AA-4EF3-99A4-01816BA1BCC2/sidebar.php",
+		"/Applications/MAMP/htdocs/KidCityNewFamily/lib/controller.php",
+		"/Applications/MAMP/htdocs/KidCityNewFamily/dateTest.php",
+		"/Users/tdarling/Desktop/db89141_beericana_staging.sql",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/832E9B66-6FDD-44D8-8C31-87BBDA38954A/footer.php",
+		"/Users/tdarling/Desktop/STUFF/WebStuff/Wordpress/ElegantThemes/Divi/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/10272004-DAB5-4673-B5EC-DF7C8E34719B/footer.php",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/views/dashboard.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/index.html",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/BB3EC896-0836-4110-9FEF-EF92269C8CBF/form.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/styles/_dashboard.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/styles/_mixins.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/scripts/settings.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/scripts/transaction.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/scripts/dashboard.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/scripts/buckets.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/Gruntfile.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/dist/js/vendor.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/bower.json",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/styles/main.scss",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/styles/main.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/scripts/main.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/package.json",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/.tmp/styles/main.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/app/index.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/AllowanceApp/app/scripts/app.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/AngularTutorial/angular-phonecat/app/index.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/ng-book/app.html",
+		"/Users/tdarling/Desktop/STUFF/DEV/ng-book/js/app.js",
+		"/Users/tdarling/Desktop/STUFF/DEV/ng-book/app.js",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/E8C150E1-C415-4C40-8D70-211B8BA19D64/OAuth.php",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/909FF45C-C7F7-4268-ADE4-393617ABB44B/poll.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/3B701A61-7557-453E-B915-66B6BB6CB4E5/styles.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/AE843DBE-C95B-446B-A124-A3A23DFA9121/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/ACA844F9-A120-41D5-A6B3-90E46B9D39D3/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/E8DA65C8-4D17-41A9-9A89-F722CF71F7B8/footer.php",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/B2080E12-D076-40EC-911A-2BA921D08C4D/footer.php",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/6DD39990-7DFF-41F9-9288-F4AB86C74D9D/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/1A66C635-8688-47AA-BE9E-40478CCB6182/style.css",
+		"/Users/tdarling/Desktop/index.php",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/3BF42A87-2897-4B24-9FE4-7333922F1482/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/32A5FE2B-3BEC-4A1C-A7FE-BA4060587AE2/sidebar.php",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/91CF7D50-DDA1-44E9-BDE2-DA1679A96D53/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/E8CC4C6D-EEF3-442E-8EAC-564BC19DE594/page.php",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/1588D5F2-D73C-4865-9642-5264C4ED95C3/style.css",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/4364E7C1-E873-49CD-8381-6ECE5A05A42B/style.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/STAGING/wp-content/themes/hope-theme/css/hope-serve-styles.css",
+		"/Users/tdarling/Desktop/STUFF/DEV/STAGING/wp-content/plugins/hope-serve/hope-serve.php",
+		"/Users/tdarling/Desktop/STUFF/DEV/STAGING/wp-content/themes/hope-theme/functions.php",
+		"/Applications/MAMP/bin/php/php5.6.2/conf/php.ini",
+		"/Users/tdarling/Library/Caches/Cleanup At Startup/Transmit/3F6F3FFD-6A4E-4989-B83D-CB527975F162/page-commitment-card.php",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/page-commitment-card.php",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/lib/commitmentCard.php",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/scss/hope-commitmentCard.scss",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/functions.php",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/js/hcc-commitmentCard.js",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/style.css",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/css/hcc-commitmentCard.css",
+		"/Applications/MAMP/htdocs/UNLEASHED/wp-content/themes/hope-unleashed/js/accounting.min.js",
+		"/Applications/MAMP/htdocs/HOPEWEB/UNLEASHED/wp-content/themes/church-event/cache/all.css",
+		"/Applications/MAMP/htdocs/coreLib/fellowshipOne/FellowshipOne-People.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/mscheckin/config.json",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/scripts/configManager.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/scripts/main.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/scripts/eventManager.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/index.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/scripts/router.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/mscheckin/scripts/optionsView.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/mscheckin/styles/optionsScreen.css",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/checkinkiosk.sublime-project",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/journeycheckin-static/templates/optionscreen.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/mscheckin/templates/optionscreen.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/scripts/views.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/templates/scanForm.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/styles/scanform.css",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/lib/controller.php",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/mscheckin/scripts/model.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/mscheckin/lib/dataEntry.php",
+		"/Users/tdarling/Library/Application Support/Sublime Text 2/Packages/JSLint/JSLint.sublime-settings",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/journeycheckin-static/scripts/optionsView.js",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/journeycheckin-static/config.json",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/templates/lookUpForm.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/journeycheckin/templates/dataEntry.html",
+		"/Applications/MAMP/htdocs/F1INTEGRATIONS/CheckInKiosk/app/cfg/journeycheckin/scripts/dataEntry.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"BrewerySearchCtrl",
+			"vm.beers",
+			"beerSrc",
+			"comment",
+			": ",
+			"staging.beericana.com",
+			"watch",
+			".newchange",
+			"db-",
+			"watch",
+			"wiredep",
+			"libsass",
+			"copy",
+			"AUTOPREFIXER",
+			".NEWCHANGE",
+			"clean",
+			"sass",
+			"sass:server",
+			"copy",
+			"NEWCHANGE",
+			"copy:styles",
+			"cssmin",
+			"sass",
+			"bower_components",
+			"sass",
+			"svgmin",
+			"top-menu-nav",
+			"@media",
+			"upload",
+			"name",
+			"wp_enqueue_styles",
+			"commitmenttotal",
+			"onetimegift",
+			"twoyearcommit",
+			"			\n",
+			"hcc_process_opp",
+			"personRecord",
+			"var_dump",
+			"\":\"\",",
+			"checkConfig",
+			"f1LookUp",
+			"F1BarCodeLookUp",
+			"input#scanForm-bc",
+			"change",
+			".change",
+			"submit",
+			"input#scanForm-bc",
+			"{\n",
+			"f1LookUp",
+			"$_SESSION['f1PeopleObj']",
+			"body",
+			"doCheck",
+			"hcc-checkinkiosk-lookup",
+			"autotab-next",
+			"formData",
+			"you",
+			"confirmation",
+			"input-mini",
+			"phonenumber",
+			"hcc:configLoaded",
+			"concat",
+			"uglify",
+			"concat",
+			"scripts",
+			"concat",
+			"&#39;",
+			"&gt;",
+			"input[type=\"text\"]",
+			"input[text]",
+			"searchResults",
+			"HCC_CheckInKiosk",
+			"CheckInKiosk",
+			"$campus",
+			"doCheckIn",
+			"$campus",
+			"www.myschoolmoney.com",
+			"var_dump",
+			"max-device-width",
+			"max-device-with",
+			"min-width"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"vm.breweries",
+			"brewerySrc",
+			"www.beericana.com",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "sass-examples/functions/functions.scss",
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SCSS/SCSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 72.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 351.0,
+	"status_bar_visible": true
+}

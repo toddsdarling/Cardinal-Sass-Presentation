@@ -1,0 +1,11 @@
+//here is the mixin that will render the grid styles
+@mixin renderGridStyles($settings){
+	//need to iterate through the breakpoints
+	$breakpoints: map-get($settings, "breakpoints");
+
+	@each $key, $breakpoint in $breakpoints {
+    	@include media($breakpoint) {
+			 @include renderGridColumns($key, $settings);
+    	}
+    }
+}

@@ -1,0 +1,8 @@
+//this is a mixin for writing out our media queries. When you call the mixin
+//and wrap it in {}, the content of that becomes available as the @content directive
+@mixin media($queryString) {
+	//#{} will just print the variable, rather than evaluate it
+	@media #{$queryString} {
+		@content;
+	}
+}

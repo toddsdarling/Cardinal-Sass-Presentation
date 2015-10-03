@@ -1,0 +1,20 @@
+//CP1
+
+@function calc-percent($target, $container) {
+	@return ($target/$container) * 100%;
+}
+
+//CP2
+
+width:calc-percent(600px,960px);
+
+
+//CP3
+
+@function pix-to-em($target, $context) {
+	@return ($target/$context) * 1em;
+}
+
+//CP4
+
+font-size: pix-to-em(40px,16px);

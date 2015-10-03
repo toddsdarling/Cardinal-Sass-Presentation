@@ -1,0 +1,42 @@
+//CP1
+
+@mixin border-radius($radius:null) {
+
+-webkit-border-radius: $radius;
+-moz-border-radius: $radius;
+-ms-border-radius: $radius;
+border-radius: $radius;
+
+}
+
+//CP2
+
+@include border-radius(10px);
+
+
+//CP3
+
+//include color gradient from CSS Gradient Generator
+@mixin button-gradient($startColor, $stopColor) {
+
+background: -moz-linear-gradient(top,  $startColor 0%, $stopColor 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,$startColor), color-stop(100%,$stopColor)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  $startColor 0%,$stopColor 100%); /* Chrome10+,Safari5.1+ */
+background: -ms-linear-gradient(top,  $startColor 0%,$stopColor 100%); /* IE10+ */
+background: linear-gradient(to bottom,  $startColor 0%,$stopColor 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='$startColor', endColorstr='$stopColor',GradientType=0 ); /* IE6-9 */
+
+}
+
+//CP4
+
+@include button-gradient(#1e5799, #7db9e8);
+
+
+//CP5
+@extend .button;
+
+//CP6
+@include button-gradient($startColor: #c9de96 , $stopColor: #398235);
+
+

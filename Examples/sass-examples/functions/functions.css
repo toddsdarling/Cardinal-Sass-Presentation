@@ -1,0 +1,16 @@
+.container {
+  border: 1px solid #333;
+  height: 500px;
+  background: #cccccc;
+  width: 62.5%; }
+
+.sidebar {
+  float: right;
+  height: 300px;
+  border: 1px solid #333;
+  background: gray;
+  width: 31.25%; }
+
+h1 {
+  float: left;
+  font-size: 2.5em; }

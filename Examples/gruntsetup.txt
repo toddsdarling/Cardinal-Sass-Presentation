@@ -1,0 +1,10 @@
+(to setup package.json file)
+
+npm init 
+
+npm install --save-dev grunt
+
+npm install --save-dev grunt-contrib-watch
+
+npm install --save-dev grunt-sass
+

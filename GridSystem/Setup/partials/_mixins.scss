@@ -1,0 +1,65 @@
+//compare to javascript objects
+
+$settings: (
+    maxWidth: 800px,
+    columns: 12,
+    margin: 15px,
+    breakpoints: (
+        xs: "(max-width : 480px)",
+        sm: "(max-width : 768px) and (min-width: 481px)",
+        md: "(max-width : 1024px)  and (min-width: 769px)",
+        lg: "(min-width : 1025px)"
+    )   
+);
+
+
+//here is the mixin that will render the grid styles
+
+//CP render grid styles
+ //here is the mixin that will render the grid styles
+@mixin renderGridStyles($settings){
+  //need to iterate through the breakpoints
+  $breakpointStrings: map-get($settings, "breakpoints");
+
+  @each $key, $breakpoint in $breakpointStrings {
+      @include media($breakpoint) {
+       @include renderGridColumns($key, $settings);
+      }
+    }
+} 
+
+//this is a mixin for writing out our media queries. When you call the mixin
+//and wrap it in {}, the content of that becomes available as the @content directive
+
+//CP media queries
+//this is a mixin for writing out our media queries. When you call the mixin
+//and wrap it in {}, the content of that becomes available as the @content directive
+@mixin media($queryString) {
+  //#{} will just print the variable, rather than evaluate it
+  @media #{$queryString} {
+    //talk through content variable
+    @content;
+  }
+}
+
+
+//as we loop through each media breakpoint, we'll 
+//need to write out the CSS for all the columns at that breakpoint
+
+//CP render grid columns
+//as we loop through each media breakpoint, we'll 
+//need to write out the CSS for all the columns at that breakpoint
+
+@mixin renderGridColumns($key, $settings) {
+  $i: 1;
+  @while $i <= map-get($settings, "columns") {
+    .col-#{$key}-#{$i} {
+      float: left;
+      width: 100% * $i / map-get($settings,"columns");
+    }
+    $i: $i+1;
+  }
+}
+
+
+

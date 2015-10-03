@@ -1,0 +1,35 @@
+$base-background-color: #CCC;
+
+//CP1
+@function calc-percent($target, $container) {
+	@return ($target/$container) * 100%;
+}
+
+//CP3
+@function pix-to-em($target, $context) {
+	@return ($target/$context) * 1em;
+}
+
+
+.container {
+	border:1px solid #333;
+	height:500px;
+	background:$base-background-color;
+	//CP2
+	width:calc-percent(600px,960px);
+}
+
+.sidebar {
+	float:right;
+	height:300px;
+	border:1px solid #333;
+	background:darken($base-background-color, 30%);
+	width: calc-percent(300px,960px);
+}
+
+h1 {
+	float:left;
+	//CP4
+	font-size: pix-to-em(40px,16px);
+	
+}
