@@ -10,6 +10,8 @@ Included are the examples, slides and grid system demo used in the presentation.
 
 [The Sass docs] (http://www.sass-lang.com/documentation/file.SASS_REFERENCE.html)
 
+[Bourbon] (http://bourbon.io). Mixin library for Sass. Thanks Brandon for reminding me of this one!
+
 [Compass](http://compass-style.org). Framework for Sass authoring and has lots of utilities/mixins to help.
 
 [The Sass Way](http://thesassway.com). Articles and tutorials. John Long is one of the authors who lives here in Raleigh.
